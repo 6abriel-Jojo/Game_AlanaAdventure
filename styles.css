@@ -10,7 +10,7 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    background-image: url(../LANI/img/Back.png);
+    background-image: url(./LANI/img/Back.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center ;
@@ -48,7 +48,7 @@ button {
     position: fixed;
     top: 0;
     left: 0;
-    background-image:url(../lani/img/3.png);
+    background-image:url(./lani/img/3.png);
     Background-repeat:none ;
     background-size: cover;
     background-position: center center;
