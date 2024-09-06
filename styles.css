@@ -19,16 +19,17 @@
 
 
 button {
-    width: 100px;
-    height: 80px;
-    margin-right: 90px;
-    margin-bottom: px;
+    width: 120px;
+    height: 100px;
+    right: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
     font-weight: bold;
     font-size: 2rem;
     border: none;
     border-radius: px;
     padding: 1rem;
-    position: static;
+    position: fixed;
     right: 50vw;
     top: 50vh;
     cursor: pointer;
@@ -74,16 +75,16 @@ button {
 }
 
 .clouds {
-    width: 1000px;
+    width: 500px;
     position: absolute;
-    top: 0;
+    bottom: 80px;
     animation: clouds-animation 10s infinite linear;
 }
 
 .clouds2 {
-    width: 1000px;
+    width: 500px;
     position: absolute;
-    top: 0;
+    bottom: 80px;
     animation: clouds2-animation 8s infinite linear;
 }
 
