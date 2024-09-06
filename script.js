@@ -20,7 +20,7 @@ const restartGame = () => {
   gameOver.style.display = 'none'
   pipe.style.left = ''
   pipe.style.right = '0'
-  mario.src = './img/mario.gif'
+  mario.src = './img/Mario.gif'
   mario.style.width = '150px'
   mario.style.bottom = '0'
 
